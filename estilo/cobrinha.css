@@ -1,0 +1,8 @@
+.tudo{
+height: 95vh;
+width: 95;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
